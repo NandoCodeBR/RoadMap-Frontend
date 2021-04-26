@@ -58,8 +58,8 @@
 * [ ] OWASP Security risks
 
 ##### Gerenciadores de pacotes
-* [ ] npm
-* [ ] yarn
+* [ ] [npm](https://docs.npmjs.com/cli/v7/commands/npm)
+* [ ] [yarn](https://yarnpkg.com/)
 
 ### Eletivos
 ##### CSS processors
