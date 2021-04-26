@@ -19,16 +19,16 @@
 * [ ] SEO 
 
 ##### CSS
-* [ ] Conceitos básicos
+* [ ] [Conceitos básicos](https://www.w3schools.com/css/)
 * [ ] Marcadores de layout
-  * [ ] Floats
-  * [ ] Positioning
-  * [ ] Display 
-  * [ ] Box model
-  * [ ] CSS Grid
-  * [ ] Flex box 
+  * [ ] [Floats](https://www.w3schools.com/css/css_float.asp)
+  * [ ] [Positioning](https://www.w3schools.com/css/css_positioning.asp)
+  * [ ] [Display](https://www.w3schools.com/css/css_display_visibility.asp) 
+  * [ ] [Box model](https://www.w3schools.com/css/css_boxmodel.asp)
+  * [ ] [CSS Grid](https://www.youtube.com/watch?v=HN1UjzRSdBk)
+  * [ ] [Flex box](https://www.youtube.com/watch?v=-Wlt8NRtOpo) 
 * [ ] Design responsivo
-  * [ ] Media Queries
+  * [ ] [Media Queries](https://www.youtube.com/watch?v=AltqAPZzAqo)
 
 ##### Javascript
 * [ ] Sintaxe JS
@@ -71,8 +71,8 @@
 * [ ] ESLint (linter and formatter)
 
 ##### Frameworks
-* [ ] React.js
-* [ ] Redux
+* [ ] [React.js](https://pt-br.reactjs.org/)
+* [ ] [Redux](https://redux.js.org/)
 
 ##### Modern CSS
 * [ ] Componentes estilizados
@@ -97,7 +97,7 @@
 * [ ] Service works
 * [ ] Performance metrics
 ##### SSR Server side rendering
-* [ ] Next.js
+* [ ] [Next.js](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website)
 ##### Routes and requests
 * [ ] Rest API
 * [ ] GraphQL
@@ -106,7 +106,7 @@
 ##### SSG Static site generation
 * [ ] Next.js
 ##### Desktop application
-* [ ] Electron js
+* [ ] [Electron js](https://www.electronjs.org/docs/tutorial/quick-start)
 
 ##### Web assembly
 * [ ] Conceitos e fundamentos
