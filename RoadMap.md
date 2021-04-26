@@ -1,7 +1,7 @@
 # Road to gold
-### Fernando Muniz
+### Irmãos Muniz
 #### Caminho Backend
-
+ ###### Em breve ....
 #### Front end:
 
 ##### Intenet
@@ -12,9 +12,9 @@
 * [ ] [O que é Dominio?](https://www.hostgator.com.br/blog/tudo-sobre-dominios/)
 * [ ] [O que é hosting?](https://www.hostinger.com.br/tutoriais/o-que-e-hospedagem-de-site)
 ##### HTML
-* [ ] Semântica
-* [ ] Formulários e validação
-* [ ] Conevenções / boas práticas
+* [ ] [Semântica](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [ ] [Formulários](https://www.w3schools.com/html/html_forms.asp) e validação
+* [ ] Convenções / boas práticas
 * [ ] Acessibilidade
 * [ ] SEO 
 
@@ -27,7 +27,7 @@
   * [ ] [Box model](https://www.w3schools.com/css/css_boxmodel.asp)
   * [ ] [CSS Grid](https://www.youtube.com/watch?v=HN1UjzRSdBk)
   * [ ] [Flex box](https://www.youtube.com/watch?v=-Wlt8NRtOpo) 
-* [ ] Design responsivo
+* [ ] [Design responsivo](https://www.youtube.com/watch?v=3rrX9w0HhZc)
   * [ ] [Media Queries](https://www.youtube.com/watch?v=AltqAPZzAqo)
 
 ##### Javascript
