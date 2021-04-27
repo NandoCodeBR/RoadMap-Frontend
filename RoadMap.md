@@ -2,7 +2,7 @@
 ### Irmãos Muniz
 #### Caminho Backend
  ###### Em breve ....
- 
+
 #### Front end:
 ##### Intenet
 * [ ] [Como a internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
@@ -16,7 +16,7 @@
 * [ ] [Formulários](https://www.w3schools.com/html/html_forms.asp) e validação
 * [ ] Convenções / boas práticas
 * [ ] Acessibilidade
-* [ ] SEO 
+* [ ] [SEO](https://rockcontent.com/br/blog/o-que-e-seo/#:~:text=SEO%20significa%20Search%20Engine%20Optimization,para%20um%20site%20ou%20blog.) 
 
 ##### CSS
 * [ ] [Conceitos básicos](https://www.w3schools.com/css/)
