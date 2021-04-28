@@ -6,9 +6,10 @@
 #### Front end:
 ##### Intenet
 * [x] [Como a internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
-* [ ] [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
+* [x] [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
 * [ ] [Como os  Browsers funcionam?](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-* [ ] [DNS](https://aws.amazon.com/pt/route53/what-is-dns/)
+* [x] [DNS](https://aws.amazon.com/pt/route53/what-is-dns/)
+  > O navegador envia o endereço do site ao DNS recursivo, este por sua vez vai aos servidores DNS Raizes para realizar a consulta de domínios. Uma vez resolvido, o DNS autioritativo devolve o IP do servidor de destino ao DNS recursivo, que por sua vez devolve este ao navegador. 
 * [x] [O que é Dominio?](https://www.hostgator.com.br/blog/tudo-sobre-dominios/)
 * [ ] [O que é hosting?](https://www.hostinger.com.br/tutoriais/o-que-e-hospedagem-de-site)
 ##### HTML
